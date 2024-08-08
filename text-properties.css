@@ -1,0 +1,47 @@
+#one {
+    background-color: aqua;
+}
+#one h1 {
+    text-align: center;
+}
+
+#one h2 {
+    text-decoration: overline; 
+}
+#one p {
+    text-decoration: underline;
+}
+#one h3 {
+    text-decoration: line-through;
+}
+a {
+    text-decoration: none;
+}
+#two{
+    background-color:blueviolet;
+}
+h1.normal{
+    font-weight:normal;
+}
+h1.lighter{
+    font-weight: lighter;
+}
+h1.bold{
+    font-weight:bold;
+}
+h1.bolder{
+    font-weight:bolder;
+}
+
+#three{
+    background-color: brown;
+}
+h1.one{
+    font-weight:100;
+}
+h1.two{
+    font-weight: 900;
+}
+h1.three{
+    font-weight: 500;
+}
