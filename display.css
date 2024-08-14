@@ -1,0 +1,22 @@
+#one{
+    background-color: lawngreen;
+}
+.a{
+    display:inline;
+    background-color: orange;
+}
+.b{
+    display:block;
+    background-color: blue;
+}
+.c{
+    display:inline-block;
+    background-color: aqua;
+}
+/*#three{
+    height:100px;
+    width:100px;
+    margin:25px;
+    padding:25px;
+    background-color: aquamarine;
+}*/
